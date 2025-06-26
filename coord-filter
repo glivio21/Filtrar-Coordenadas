@@ -26,16 +26,16 @@
     };
 
     const en = {
-        coordinatesFilter: 'Coordinates Filter',
-        clansLabel: 'Tribes (use semicolon):',
-        playersLabel: 'Players (use semicolon):',
+        coordinatesFilter: 'Filtrar Coordenadas',
+        clansLabel: 'Tribes (use ;):',
+        playersLabel: 'Players (use ;):',
         xMinLabel: 'X min:', xMaxLabel: 'X max:',
         yMinLabel: 'Y min:', yMaxLabel: 'Y max:',
-        runButton: 'Start Filter',
-        separatorLabel: 'Format:',
+        runButton: 'Start Filtro',
+        separatorLabel: 'Formato:',
         playersNotFound: 'Players not found:',
-        tribesNotFound: 'Tribes not found:',
-        clansPlaceholder: 'Tribe1;Tribe2',
+        tribesNotFound: 'Tribos not found:',
+        clansPlaceholder: 'Tribo1;Tribo2',
         playersPlaceholder: 'Player1;Player2'
     };
 
